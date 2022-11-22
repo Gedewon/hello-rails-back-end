@@ -1,24 +1,73 @@
-# README
+##  Message API back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ - A Rails API only back-end and  to return a random message
 
-Things you may want to cover:
+ ## LINK to front-end
+ [React front-end](https://github.com/Gedewon/hello-react-front-end)
 
-* Ruby version
+### Built With
 
-* System dependencies
+- Ruby on Rails
+- Development set up
+- Rails API only
 
-* Configuration
+### Setup
 
-* Database creation
+- Open your terminal and navigate to the folder you would like to save the project.type the following commands to your terminal 
 
-* Database initialization
 
-* How to run the test suite
+```
+git clone git@github.com:Gedewon/hello-rails-back-end.git
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+- Move into project directory
 
-* Deployment instructions
+```
+cd hello-rails-back-end
+```
 
-* ...
+### Available Scripts
+
+```
+bundle install && rails db:create db:migrate db:seed 
+```
+
+### Then bootup your database by running the following command 
+
+```
+rails server
+```
+
+
+### Testing
+
+```
+rspec
+
+```
+
+## Authors
+
+👤 **Gedewon Haile**
+
+- GitHub: [@gedewon](https://github.com/gedewon)
+- Twitter: [@gedewon](https://twitter.com/gedi_haile)
+- LinkedIn: [@gedewon](https://linkedin.com/in/gedewon)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Gedewon/Budget-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
+
+## 📝 License
+
+This project is [MIT](https://github.com/Gedewon/Budget-app/blob/dev/LICENSE) licensed.
