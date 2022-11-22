@@ -64,9 +64,6 @@ Feel free to check the [issues page](https://github.com/Gedewon/Budget-app/issue
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
 
 ## 📝 License
 
